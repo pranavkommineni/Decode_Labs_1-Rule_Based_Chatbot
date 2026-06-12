@@ -1,0 +1,4 @@
+# Project 1 – Rule-Based AI Chatbot
+# No external dependencies required (pure Python 3.10+)
+# Optional: install pytest for running tests
+pytest>=7.4.0
