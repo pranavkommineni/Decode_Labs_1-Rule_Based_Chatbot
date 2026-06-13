@@ -28,7 +28,7 @@ RESPONSES = {
             "  • Greet you & have a chat\n"
             "  • Answer questions about time & date\n"
             "  • Crack a joke 😄\n"
-            "  • Do quick math (e.g. '12 * 7')\n"
+            "  • Do quick math (advanced) \n"
             "  • Tell you about myself\n"
             "  • Type 'bye' or 'quit' to exit\n"
         )

@@ -31,7 +31,7 @@ python -m pytest test_chatbot.py -v
 ## Daily Work Log – Rule-Based AI Chatbot
 
 --- 
-## Day 1 – 02/06/2025
+## [02/06/2025]
 
 ### Project Planning & Requirement Analysis
 
@@ -51,7 +51,7 @@ python -m pytest test_chatbot.py -v
 - Dependency setup.
 ---
 ---
-## Day 2 – 03/06/2025
+## [03/06/2025]
 
 ### Core Chatbot Engine Development
 
@@ -83,7 +83,7 @@ python -m pytest test_chatbot.py -v
 #### Intent detection system implemented.
 ---
 ---
-## Day 3 – 04/06/2025
+## [04/06/2025]
 
 ### Knowledge Base & Context Management
 - Developed response management module.
@@ -105,7 +105,7 @@ python -m pytest test_chatbot.py -v
 `Multi-turn conversation support added.`
 ---
 ---
-## Day 4 – 05/06/2025
+## [05/06/2025]
 
 ### User Interface, Testing & Documentation
 - Developed interactive Command Line Interface (CLI).
@@ -146,39 +146,19 @@ python -m pytest test_chatbot.py -v
 - Interactive CLI interface.
 - Colored terminal responses.
 - Session analytics dashboard.
+---
+
 ### Testing
 - Automated unit tests using PyTest.
 - Validation of chatbot responses.
 - Context management verification.
 - Intent detection accuracy testing.
+---
+
 ### Technologies Used
 - Python 3
 - Regular Expressions (Regex)
 - PyTest
 - Object-Oriented Programming (OOP)
 - Command Line Interface (CLI)
-### Outcome
-
-- Successfully designed and implemented a fully functional Rule-Based AI Chatbot capable of intent recognition, context-aware conversation handling, arithmetic operations, session tracking, and automated testing while following modular software engineering principles.
 ---
-## Sample Session
-
-```
-  You > hello
-  🤖 Aria: Hello there! I'm Aria. How can I help you today?
-
-  You > what is 15 * 8
-  🤖 Aria: 15 * 8 = 120
-
-  You > tell me a joke
-  🤖 Aria: Why do programmers prefer dark mode? Because light attracts bugs! 🐛
-
-  You > stats
-  ── Session Stats ──────────────────────
-  Turns:          3
-  Session length: 0:00:12
-  Intents seen:   greeting, math, joke
-
-  You > bye
-  🤖 Aria: Goodbye! It was a pleasure chatting. Take care! 👋
-```
